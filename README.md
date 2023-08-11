@@ -12,3 +12,7 @@ This project is an simple calculator
 *Basic of javascript
 *Using this tech stack i ahve created  a simple calculator using in daily life 
 *IDE USED in all above project is VSCODE.
+# TRIBUTE PAGE
+this project is an simple tribute page 
+*TECH STACK:HTML,CSS
+*i have build this tribute page for rabindranath tagore
